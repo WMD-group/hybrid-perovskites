@@ -1,0 +1,37 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_pd_phase_name                         'MA-Pb-I                               '
+_cell_length_a                         6.05392
+_cell_length_b                         6.05754
+_cell_length_c                         6.05235
+_cell_angle_alpha                      90.60904
+_cell_angle_beta                       89.44993
+_cell_angle_gamma                      89.40659
+_symmetry_space_group_name_H-M         'P 1'
+_symmetry_Int_Tables_number            1
+
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   H1         1.0     0.998251      0.002254      0.995687     Biso  1.000000 H
+   Pb1        1.0     0.498543      0.501959      0.495859     Biso  1.000000 Pb
+   I1         1.0     0.498638      0.501865      0.995731     Biso  1.000000 I
+   I2         1.0     0.499159      0.001819      0.496424     Biso  1.000000 I
+   I3         1.0     0.998675      0.501342      0.496347     Biso  1.000000 I

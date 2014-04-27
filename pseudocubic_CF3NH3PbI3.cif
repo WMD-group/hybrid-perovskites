@@ -1,0 +1,44 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_pd_phase_name                         'MAF3-Pb-I                             '
+_cell_length_a                         6.34201
+_cell_length_b                         6.32199
+_cell_length_c                         6.39829
+_cell_angle_alpha                      90.00864
+_cell_angle_beta                       88.66492
+_cell_angle_gamma                      90.00111
+_symmetry_space_group_name_H-M         'P 1'
+_symmetry_Int_Tables_number            1
+
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   C1         1.0     0.921414      0.000095      0.987362     Biso  1.000000 C
+   N1         1.0     0.148597      0.999228      0.027903     Biso  1.000000 N
+   F1         1.0     0.892630      0.003342      0.781850     Biso  1.000000 F
+   F2         1.0     0.834736      0.171783      0.075419     Biso  1.000000 F
+   F3         1.0     0.834291      0.826083      0.070122     Biso  1.000000 F
+   H1         1.0     0.220875      0.137313      0.965699     Biso  1.000000 H
+   H2         1.0     0.220266      0.861337      0.964672     Biso  1.000000 H
+   H3         1.0     0.180614      0.998640      0.190987     Biso  1.000000 H
+   Pb1        1.0     0.474805      0.499948      0.474153     Biso  1.000000 Pb
+   I1         1.0     0.390968      0.499079      0.970227     Biso  1.000000 I
+   I2         1.0     0.406423      0.999987      0.492790     Biso  1.000000 I
+   I3         1.0     0.952363      0.502469      0.504606     Biso  1.000000 I
