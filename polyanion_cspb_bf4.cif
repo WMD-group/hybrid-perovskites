@@ -1,0 +1,49 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_pd_phase_name                         'CONTCAR                               '
+_cell_length_a                         6.71140
+_cell_length_b                         6.78975
+_cell_length_c                         6.78975
+_cell_angle_alpha                      95.80812
+_cell_angle_beta                       89.49614
+_cell_angle_gamma                      89.49614
+_symmetry_space_group_name_H-M         'P 1'
+_symmetry_Int_Tables_number            1
+
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Pb1        1.0     0.051388      0.028913      0.028913     Biso  1.000000 Pb
+   Cs1        1.0     0.578510      0.492229      0.492229     Biso  1.000000 Cs
+   B1         1.0     0.496783      0.009297      0.009297     Biso  1.000000 B
+   B2         1.0     0.992028      0.505367      0.978202     Biso  1.000000 B
+   B3         1.0     0.992028      0.978202      0.505367     Biso  1.000000 B
+   F1         1.0     0.403622      0.836583      0.062538     Biso  1.000000 F
+   F2         1.0     0.403622      0.062538      0.836583     Biso  1.000000 F
+   F3         1.0     0.469080      0.162432      0.162432     Biso  1.000000 F
+   F4         1.0     0.701729      0.969510      0.969510     Biso  1.000000 F
+   F5         1.0     0.891740      0.358230      0.081465     Biso  1.000000 F
+   F6         1.0     0.893378      0.529549      0.803621     Biso  1.000000 F
+   F7         1.0     0.981853      0.686086      0.105683     Biso  1.000000 F
+   F8         1.0     0.188650      0.443779      0.946517     Biso  1.000000 F
+   F9         1.0     0.893378      0.803621      0.529549     Biso  1.000000 F
+   F10        1.0     0.891740      0.081465      0.358230     Biso  1.000000 F
+   F11        1.0     0.981853      0.105683      0.686086     Biso  1.000000 F
+   F12        1.0     0.188650      0.946517      0.443779     Biso  1.000000 F

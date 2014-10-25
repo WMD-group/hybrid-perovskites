@@ -1,0 +1,41 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_pd_phase_name                         'CONTCAR                               '
+_cell_length_a                         6.02302
+_cell_length_b                         6.02242
+_cell_length_c                         6.65434
+_cell_angle_alpha                      89.15347
+_cell_angle_beta                       90.87351
+_cell_angle_gamma                      89.20815
+_symmetry_space_group_name_H-M         'P 1'
+_symmetry_Int_Tables_number            1
+
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Pb1        1.0     0.007850      0.995439      0.003522     Biso  1.000000 Pb
+   Cs1        1.0     0.528280      0.514636      0.503764     Biso  1.000000 Cs
+   B1         1.0     0.001404      0.988880      0.503451     Biso  1.000000 B
+   F1         1.0     0.000004      0.798880      0.631227     Biso  1.000000 F
+   F2         1.0     0.811848      0.990498      0.374892     Biso  1.000000 F
+   F3         1.0     0.999343      0.179740      0.624714     Biso  1.000000 F
+   F4         1.0     0.192703      0.985020      0.382957     Biso  1.000000 F
+   I1         1.0     0.505710      0.005037      0.877589     Biso  1.000000 I
+   I2         1.0     0.019216      0.493164      0.129536     Biso  1.000000 I
