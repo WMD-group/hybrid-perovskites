@@ -20,6 +20,10 @@ Used in
 
 - "Atomistic origins of high-performance in hybrid halide perovskite solar cells" Nano Letters (2014) DOI: 10.1021/nl500390f
 
+- "Molecular ferroelectric contributions to anomalous hysteresis in hybrid perovskite solar cells" APL Materials (2014) DOI: 10.1063/1.4890246
+
+- "Assessment of polyanion (BF4- and PF6-) substitutions in hybrid halide perovskites" Journal of Materials Chemistry A (2014) DOI: 10.1039/C4TA05284F
+
 Requirements
 ------------
 To open the .cif file, a viewer such as http://jp-minerals.org/vesta/en/.
