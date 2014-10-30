@@ -10,6 +10,8 @@ For the ‘pseudo-cubic’ phases the starting point is a standard cubic perovsk
 
 The final structures have been obtained following an iterative procedure with small ion displacements (ISIF2 in VASP) using a Quasi-Newton algorithm and the PBEsol exchange-correlation functional within Density Functional Theory (DFT). 
 
+Note: A discussion of perovskite structures: http://thelostelectron.wordpress.com/2014/06/22/crystal-structures-of-hybrid-perovskites-are-not-0k//
+
 N.B. For property calculations, always re-optimise a crystal structure using your own calculation setup (and exchange-correlation functional). 
 
 Used in
@@ -23,6 +25,8 @@ Used in
 - "Molecular ferroelectric contributions to anomalous hysteresis in hybrid perovskite solar cells" APL Materials (2014) DOI: 10.1063/1.4890246
 
 - "Assessment of polyanion (BF4- and PF6-) substitutions in hybrid halide perovskites" Journal of Materials Chemistry A (2014) DOI: 10.1039/C4TA05284F
+
+- "Band alignment of the hybrid halide perovskites CH3NH3PbCl3, CH3NH3PbBr3 and CH3NH3PbI3" Materials Horizons (2014) DOI: 10.1039/C4MH00174E 
 
 Requirements
 ------------

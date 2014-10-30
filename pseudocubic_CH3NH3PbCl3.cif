@@ -1,0 +1,44 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_pd_phase_name                         'MA-Pb-Cl                              '
+_cell_length_a                         5.68000
+_cell_length_b                         5.68000
+_cell_length_c                         5.68000
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      90
+_symmetry_space_group_name_H-M         'P 1'
+_symmetry_Int_Tables_number            1
+
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   C1         1.0     0.893551      0.999981      0.976787     Biso  1.000000 C
+   N1         1.0     0.145562      0.999856      0.041010     Biso  1.000000 N
+   H1         1.0     0.877114      0.999831      0.784042     Biso  1.000000 H
+   H2         1.0     0.810935      0.158976      0.049865     Biso  1.000000 H
+   H3         1.0     0.810719      0.841217      0.050125     Biso  1.000000 H
+   H4         1.0     0.232114      0.148693      0.976659     Biso  1.000000 H
+   H5         1.0     0.231946      0.850849      0.976818     Biso  1.000000 H
+   H6         1.0     0.173697      0.999935      0.222940     Biso  1.000000 H
+   Pb1        1.0     0.474205      0.499977      0.483076     Biso  1.000000 Pb
+   Cl1        1.0     0.426907      0.499890      0.975711     Biso  1.000000 Cl
+   Cl2        1.0     0.427922      0.999991      0.520676     Biso  1.000000 Cl
+   Cl3        1.0     0.973309      0.500105      0.438080     Biso  1.000000 Cl
