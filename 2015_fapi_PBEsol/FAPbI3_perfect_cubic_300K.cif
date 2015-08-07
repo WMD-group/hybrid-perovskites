@@ -1,0 +1,44 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_pd_phase_name                         'FAPI PBEsol optimised with PND volume '
+_cell_length_a                         6.36130
+_cell_length_b                         6.36130
+_cell_length_c                         6.36130
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      90
+_symmetry_space_group_name_H-M         'P 1'
+_symmetry_Int_Tables_number            1
+
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   C1         1.0     0.500001      0.569011      0.500000     Biso  1.000000 C
+   N1         1.0     0.682927      0.475280      0.500000     Biso  1.000000 N
+   N2         1.0     0.317071      0.475280      0.500000     Biso  1.000000 N
+   H1         1.0     0.500000      0.741416      0.500000     Biso  1.000000 H
+   H2         1.0     0.814009      0.567630      0.500000     Biso  1.000000 H
+   H3         1.0     0.704462      0.315280      0.500000     Biso  1.000000 H
+   H4         1.0     0.295538      0.315280      0.500000     Biso  1.000000 H
+   H5         1.0     0.185991      0.567630      0.500000     Biso  1.000000 H
+   Pb1        1.0     0.000000      0.000000      0.000000     Biso  1.000000 Pb
+   I1         1.0     0.500000      0.000000      0.000000     Biso  1.000000 I
+   I2         1.0     0.000000      0.500000      0.000000     Biso  1.000000 I
+   I3         1.0     0.000000      0.000000      0.500000     Biso  1.000000 I
