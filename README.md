@@ -1,6 +1,6 @@
 #Hybrid-perovskites
 
-Optimised crystal structures of hybrid halide perovskites, from density functional theory, including CH3NH3PbI3 (MAPI) and [HC(NH2)2]PbI3 (FAPI). For conciseness in the file names, methylammonium may be referred to as MA and formamidinium as FA.
+Optimised crystal structures of hybrid halide perovskites, from density functional theory, including CH3NH3PbI3 (MAPI) and [HC(NH2)2]PbI3 (FAPI). For conciseness in the file names, methylammonium may be referred to as MA, and formamidinium as FA.
 
 Source
 ------
@@ -26,7 +26,7 @@ Used in
 
 - "The dynamics of methylammonium ions in hybrid organic–inorganic perovskite solar cells" [Nature Communications (2015)](http://www.nature.com/ncomms/2015/150529/ncomms8124/full/ncomms8124.html)
 
-- - "Cubic Perovskite Structure of Black Formamidinium Lead Iodide, α-[HC(NH2)2]PbI3, at 298 K" [Journal of Physical Chemistry Letters (2015)](http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.5b01432)
+- "Cubic Perovskite Structure of Black Formamidinium Lead Iodide, α-[HC(NH2)2]PbI3, at 298 K" [Journal of Physical Chemistry Letters (2015)](http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.5b01432)
 
 Requirements
 ------
