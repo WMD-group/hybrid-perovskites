@@ -1,6 +1,6 @@
 #Hybrid-perovskites
 
-Optimised crystal structures of hybrid halide perovskites, from density functional theory, including CH3NH3PbI3 (MAPI) and [HC(NH2)2]PbI3 (FAPI). For conciseness in the file names, methylammonium may be referred to as MA, and formamidinium as FA.
+Optimised crystal structures of hybrid halide perovskites, from density functional theory, including CH3NH3PbI3 (MAPI) and [HC(NH2)2]PbI3 (FAPI). For conciseness in the file names, methylammonium may be referred to as MA, and formamidinium as FA. Our phonon data is collected in another [repository](https://github.com/WMD-group/Phonons/tree/master/2015_MAPbI3).
 
 Source
 ------
