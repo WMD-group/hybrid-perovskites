@@ -1,6 +1,6 @@
 #Hybrid-perovskites
 
-Optimised crystal structures of hybrid halide perovskites, from density functional theory, including CH3NH3PbI3 (MAPI) and [HC(NH2)2]PbI3 (FAPI). For conciseness in the file names, methylammonium may be referred to as MA, and formamidinium as FA. 
+Optimised crystal structures of inorganic and hybrid halide perovskites, from density functional theory, including CH3NH3PbI3 (MAPI) and [HC(NH2)2]PbI3 (FAPI). For conciseness in the file names, methylammonium may be referred to as MA, and formamidinium as FA. 
 
 Our phonon data is collected in another [repository](https://github.com/WMD-group/Phonons/tree/master/2015_MAPbI3).
 
@@ -14,6 +14,7 @@ _N.B._ For property calculations, always re-optimise a crystal structure using y
 
 Used in
 ------
+
 - "Structural and electronic properties of hybrid perovskites for high-efficiency thin-film photovoltaics from first-principles" [APL Materials (2013)](http://scitation.aip.org/content/aip/journal/aplmater/1/4/10.1063/1.4824147) 
 
 - "Relativistic quasiparticle self-consistent electronic structure of hybrid halide perovskite photovoltaic absorbers” [Physical Review B (2014)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.89.155204)
@@ -21,6 +22,8 @@ Used in
 - "Atomistic origins of high-performance in hybrid halide perovskite solar cells" [Nano Letters (2014)](http://pubs.acs.org/doi/abs/10.1021/nl500390f)
 
 - "Molecular ferroelectric contributions to anomalous hysteresis in hybrid perovskite solar cells" [APL Materials (2014)](http://scitation.aip.org/content/aip/journal/aplmater/2/8/10.1063/1.4890246)
+
+- "Phase stability and transformations in the halide perovskite CsSnI3" [Physical Review B (2015)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.91.144107) 
 
 - "Assessment of polyanion (BF4- and PF6-) substitutions in hybrid halide perovskites" [Journal of Materials Chemistry A (2015)](http://pubs.rsc.org/en/content/articlelanding/2015/ta/c4ta05284f#!divAbstract) 
 
