@@ -1,0 +1,1 @@
+Taken from https://github.com/SMTG-UCL/AgBi_double_perovskite as published in http://pubs.acs.org/doi/abs/10.1021/acsenergylett.6b00471

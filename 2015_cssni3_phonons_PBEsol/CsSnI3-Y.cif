@@ -1,0 +1,52 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  ''
+_cell_length_a                         10.37905
+_cell_length_b                         4.68559
+_cell_length_c                         17.57388
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      90
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Cs1        1.0     0.917456      0.750000      0.670722     Biso  1.000000 Cs
+   Cs2        1.0     0.082544      0.250000      0.329278     Biso  1.000000 Cs
+   Cs3        1.0     0.582544      0.250000      0.170722     Biso  1.000000 Cs
+   Cs4        1.0     0.417456      0.750000      0.829278     Biso  1.000000 Cs
+   I1         1.0     0.531209      0.750000      0.613626     Biso  1.000000 I
+   I2         1.0     0.468791      0.250000      0.386374     Biso  1.000000 I
+   I3         1.0     0.968791      0.250000      0.113626     Biso  1.000000 I
+   I4         1.0     0.031209      0.750000      0.886374     Biso  1.000000 I
+   I5         1.0     0.163032      0.750000      0.500770     Biso  1.000000 I
+   I6         1.0     0.836968      0.250000      0.499230     Biso  1.000000 I
+   I7         1.0     0.336968      0.250000      0.000770     Biso  1.000000 I
+   I8         1.0     0.663032      0.750000      0.999230     Biso  1.000000 I
+   I9         1.0     0.204493      0.250000      0.710931     Biso  1.000000 I
+   I10        1.0     0.795507      0.750000      0.289069     Biso  1.000000 I
+   I11        1.0     0.295507      0.750000      0.210931     Biso  1.000000 I
+   I12        1.0     0.704493      0.250000      0.789069     Biso  1.000000 I
+   Sn1        1.0     0.341788      0.250000      0.560162     Biso  1.000000 Sn
+   Sn2        1.0     0.658212      0.750000      0.439838     Biso  1.000000 Sn
+   Sn3        1.0     0.158212      0.750000      0.060162     Biso  1.000000 Sn
+   Sn4        1.0     0.841788      0.250000      0.939838     Biso  1.000000 Sn
