@@ -6,7 +6,7 @@ Calculated phonon data is collected in another [Github repository](https://githu
 
 Source
 ------
-For the ‘pseudo-cubic’ phases the starting point is a standard cubic ABX<sub>3</sub> perovskite structure (all internal positions fixed by the space group). The 'A' site is replaced by a molecule, which lowers the symmetry and allows distortions of the BX<sub>6</sub> octahedra. The final structures have been obtained following an iterative procedure with small ion displacements (ISIF2 in VASP) using a Quasi-Newton algorithm and the PBEsol exchange-correlation functional. 
+For the ‘pseudo-cubic’ phases the starting point is a standard cubic ABX<sub>3</sub> perovskite structure (all internal positions fixed by the space group). The 'A' site is replaced by a molecule, which lowers the symmetry and allows distortions of the BX<sub>6</sub> octahedra. The final structures have been obtained following an iterative procedure with small ion displacements (`ISIF = 2` in VASP) using a Quasi-Newton algorithm and the PBEsol exchange-correlation functional. 
 
 _Note:_ A discussion of perovskite structures: http://thelostelectron.wordpress.com/2014/06/22/crystal-structures-of-hybrid-perovskites-are-not-0k//
 
