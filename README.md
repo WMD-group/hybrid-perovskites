@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/19191394.svg)](https://zenodo.org/badge/latestdoi/19191394)
+
 # Crystal structures of halide perovskites
 
 A collection of optimised crystal structures of inorganic and hybrid halide perovskites, from density functional theory, including CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> (MAPI) and [HC(NH<sub>2</sub>)<sub>2</sub>]PbI<sub>3</sub> (FAPI). For conciseness in the file names, methylammonium may be referred to as MA, and formamidinium as FA. 
